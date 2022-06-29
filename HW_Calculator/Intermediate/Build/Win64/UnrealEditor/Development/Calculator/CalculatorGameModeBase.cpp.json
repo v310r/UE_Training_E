@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\tech\\studyingmaterials\\ue\\epam\\ue_training_e\\hw_calculator\\source\\calculator\\calculatorgamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\tech\\studyingmaterials\\ue\\epam\\ue_training_e\\hw_calculator\\intermediate\\build\\win64\\calculatoreditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\tech\\studyingmaterials\\ue\\epam\\ue_training_e\\hw_calculator\\intermediate\\build\\win64\\unrealeditor\\development\\calculator\\definitions.calculator.h",
+            "d:\\tech\\studyingmaterials\\ue\\epam\\ue_training_e\\hw_calculator\\source\\calculator\\calculatorgamemodebase.h",
+            "d:\\tech\\engines\\ue\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\tech\\engines\\ue\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\tech\\engines\\ue\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "d:\\tech\\engines\\ue\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\tech\\studyingmaterials\\ue\\epam\\ue_training_e\\hw_calculator\\intermediate\\build\\win64\\unrealeditor\\inc\\calculator\\calculatorgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

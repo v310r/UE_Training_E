@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\tech\\studyingMaterials\\UE\\EPAM\\UE_Training_E\\HW_Calculator\\Source\\Calculator\\Calculator.Build.cs",
+		"D:\\tech\\studyingMaterials\\UE\\EPAM\\UE_Training_E\\HW_Calculator\\Source\\Calculator.Target.cs",
+		"D:\\tech\\studyingMaterials\\UE\\EPAM\\UE_Training_E\\HW_Calculator\\Source\\CalculatorEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.2"
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Calculator",
+			"Path": "D:\\tech\\studyingMaterials\\UE\\EPAM\\UE_Training_E\\HW_Calculator\\Source\\Calculator.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CalculatorEditor",
+			"Path": "D:\\tech\\studyingMaterials\\UE\\EPAM\\UE_Training_E\\HW_Calculator\\Source\\CalculatorEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
