@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\tech\\studyingMaterials\\UE\\EPAM\\UE_Training_E\\HW_102.1_Blueprints_Door\\Source\\DoorExample\\DoorExample.Build.cs",
+		"D:\\tech\\studyingMaterials\\UE\\EPAM\\UE_Training_E\\HW_102.1_Blueprints_Door\\Source\\DoorExample.Target.cs",
+		"D:\\tech\\studyingMaterials\\UE\\EPAM\\UE_Training_E\\HW_102.1_Blueprints_Door\\Source\\DoorExampleEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.2"
+}

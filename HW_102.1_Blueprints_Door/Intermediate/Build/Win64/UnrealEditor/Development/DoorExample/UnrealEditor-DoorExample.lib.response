@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DoorExample.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\tech\studyingMaterials\UE\EPAM\UE_Training_E\HW_102.1_Blueprints_Door\Intermediate\Build\Win64\DoorExampleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\tech\studyingMaterials\UE\EPAM\UE_Training_E\HW_102.1_Blueprints_Door\Intermediate\Build\Win64\UnrealEditor\Development\DoorExample\MyWrittenDoor.cpp.obj"
+"D:\tech\studyingMaterials\UE\EPAM\UE_Training_E\HW_102.1_Blueprints_Door\Intermediate\Build\Win64\UnrealEditor\Development\DoorExample\MyWrittenLock.cpp.obj"
+"D:\tech\studyingMaterials\UE\EPAM\UE_Training_E\HW_102.1_Blueprints_Door\Intermediate\Build\Win64\UnrealEditor\Development\DoorExample\DoorExample.cpp.obj"
+"D:\tech\studyingMaterials\UE\EPAM\UE_Training_E\HW_102.1_Blueprints_Door\Intermediate\Build\Win64\UnrealEditor\Development\DoorExample\DoorExample.init.gen.cpp.obj"
+"D:\tech\studyingMaterials\UE\EPAM\UE_Training_E\HW_102.1_Blueprints_Door\Intermediate\Build\Win64\UnrealEditor\Development\DoorExample\MyWrittenDoor.gen.cpp.obj"
+"D:\tech\studyingMaterials\UE\EPAM\UE_Training_E\HW_102.1_Blueprints_Door\Intermediate\Build\Win64\UnrealEditor\Development\DoorExample\MyWrittenLock.gen.cpp.obj"
+"D:\tech\studyingMaterials\UE\EPAM\UE_Training_E\HW_102.1_Blueprints_Door\Intermediate\Build\Win64\UnrealEditor\Development\DoorExample\Default.rc2.res"
+/OUT:"D:\tech\studyingMaterials\UE\EPAM\UE_Training_E\HW_102.1_Blueprints_Door\Intermediate\Build\Win64\UnrealEditor\Development\DoorExample\UnrealEditor-DoorExample.lib"

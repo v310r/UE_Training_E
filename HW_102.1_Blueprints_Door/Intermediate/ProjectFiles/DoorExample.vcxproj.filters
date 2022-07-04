@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DoorExample.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DoorExample.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DoorExampleEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\README.md" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Source\DoorExample">
+      <UniqueIdentifier>{FDC20928-21FF-3563-8863-F83523AE8C28}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DoorExample\DoorExample.Build.cs">
+      <Filter>Source\DoorExample</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DoorExample\DoorExample.cpp">
+      <Filter>Source\DoorExample</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DoorExample\DoorExample.h">
+      <Filter>Source\DoorExample</Filter>
+    </ClInclude>
+    <Filter Include="Source\DoorExample\Private">
+      <UniqueIdentifier>{DD75106C-F91C-3FDA-A775-365B319D57B6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DoorExample\Private\MyWrittenDoor.cpp">
+      <Filter>Source\DoorExample\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DoorExample\Private\MyWrittenDoor.h">
+      <Filter>Source\DoorExample\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DoorExample\Private\MyWrittenLock.cpp">
+      <Filter>Source\DoorExample\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DoorExample\Private\MyWrittenLock.h">
+      <Filter>Source\DoorExample\Private</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

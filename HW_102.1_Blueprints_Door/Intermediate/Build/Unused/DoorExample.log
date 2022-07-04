@@ -1,0 +1,5 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\webma\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (D:\tech\studyingMaterials\UE\EPAM\UE_Training_E).
+UnrealBuildTool : error : Unable to build while Live Coding is active. Exit the editor and game, or press Ctrl+Alt+F11 if iterating on code in the editor or game
+D:\utility\VisualStudio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(45,5): error MSB3073: The command "D:\tech\engines\UE\UE_5.0\Engine\Build\BatchFiles\Build.bat DoorExampleEditor Win64 Development -Project="D:\tech\studyingMaterials\UE\EPAM\UE_Training_E\HW_102.1_Blueprints_Door\DoorExample.uproject" -WaitMutex -FromMsBuild" exited with code 6.

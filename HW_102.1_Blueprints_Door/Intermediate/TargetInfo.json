@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DoorExample",
+			"Path": "D:\\tech\\studyingMaterials\\UE\\EPAM\\UE_Training_E\\HW_102.1_Blueprints_Door\\Source\\DoorExample.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DoorExampleEditor",
+			"Path": "D:\\tech\\studyingMaterials\\UE\\EPAM\\UE_Training_E\\HW_102.1_Blueprints_Door\\Source\\DoorExampleEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

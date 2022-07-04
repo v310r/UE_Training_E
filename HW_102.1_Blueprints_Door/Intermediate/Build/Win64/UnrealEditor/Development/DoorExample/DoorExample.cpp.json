@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\tech\\studyingmaterials\\ue\\epam\\ue_training_e\\hw_102.1_blueprints_door\\source\\doorexample\\doorexample.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\tech\\studyingmaterials\\ue\\epam\\ue_training_e\\hw_102.1_blueprints_door\\intermediate\\build\\win64\\doorexampleeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\tech\\studyingmaterials\\ue\\epam\\ue_training_e\\hw_102.1_blueprints_door\\intermediate\\build\\win64\\unrealeditor\\development\\doorexample\\definitions.doorexample.h",
+            "d:\\tech\\studyingmaterials\\ue\\epam\\ue_training_e\\hw_102.1_blueprints_door\\source\\doorexample\\doorexample.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
