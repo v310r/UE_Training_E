@@ -34,9 +34,9 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
 "D:\tech\studyingMaterials\UE\EPAM\UE_Training_E\HW_Calculator\Intermediate\Build\Win64\CalculatorEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\tech\studyingMaterials\UE\EPAM\UE_Training_E\HW_Calculator\Intermediate\Build\Win64\UnrealEditor\Development\Calculator\CalculatorScript.cpp.obj"
 "D:\tech\studyingMaterials\UE\EPAM\UE_Training_E\HW_Calculator\Intermediate\Build\Win64\UnrealEditor\Development\Calculator\Calculator.cpp.obj"
 "D:\tech\studyingMaterials\UE\EPAM\UE_Training_E\HW_Calculator\Intermediate\Build\Win64\UnrealEditor\Development\Calculator\CalculatorGameModeBase.cpp.obj"
-"D:\tech\studyingMaterials\UE\EPAM\UE_Training_E\HW_Calculator\Intermediate\Build\Win64\UnrealEditor\Development\Calculator\CalculatorScript.cpp.obj"
 "D:\tech\studyingMaterials\UE\EPAM\UE_Training_E\HW_Calculator\Intermediate\Build\Win64\UnrealEditor\Development\Calculator\Calculator.init.gen.cpp.obj"
 "D:\tech\studyingMaterials\UE\EPAM\UE_Training_E\HW_Calculator\Intermediate\Build\Win64\UnrealEditor\Development\Calculator\CalculatorGameModeBase.gen.cpp.obj"
 "D:\tech\studyingMaterials\UE\EPAM\UE_Training_E\HW_Calculator\Intermediate\Build\Win64\UnrealEditor\Development\Calculator\CalculatorScript.gen.cpp.obj"
