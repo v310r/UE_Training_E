@@ -1,0 +1,101 @@
+{
+	"Type": "/Script/MovieSceneCapture.AutomatedLevelSequenceCapture",
+	"Data":
+	{
+		"bUseCustomStartFrame": false,
+		"startFrame": 0,
+		"bUseCustomEndFrame": false,
+		"endFrame": 1856,
+		"warmUpFrameCount": 0,
+		"delayBeforeWarmUp": 0,
+		"burnInOptions": "LevelSequenceBurnInOptions'/Engine/Transient.AutomatedLevelSequenceCapture_0:BurnInOptions'",
+		"bWriteEditDecisionList": true,
+		"levelSequenceAsset": "/Game/Cinematics/Sequences/DanceAudition/DanceAudition_Master.DanceAudition_Master",
+		"levelSequenceActor": "None",
+		"captureType":
+		{
+			"identifier": "JPG"
+		},
+		"protocolSettings": "ImageCaptureSettings'/Engine/Transient.AutomatedLevelSequenceCapture_0:ImageCaptureSettings_0'",
+		"settings":
+		{
+			"outputDirectory":
+			{
+				"path": "../../../../../RENDERS/UA2018/2"
+			},
+			"gameModeOverride": "None",
+			"outputFormat": "{world}.{frame}",
+			"bOverwriteExisting": true,
+			"bUseRelativeFrameNumbers": false,
+			"handleFrames": 0,
+			"zeroPadFrameNumbers": 4,
+			"frameRate": 30,
+			"resolution":
+			{
+				"resX": 1920,
+				"resY": 1080
+			},
+			"bEnableTextureStreaming": false,
+			"bCinematicEngineScalability": true,
+			"bCinematicMode": true,
+			"bAllowMovement": false,
+			"bAllowTurning": false,
+			"bShowPlayer": false,
+			"bShowHUD": false
+		},
+		"bUseSeparateProcess": true,
+		"bCloseEditorWhenCaptureStarts": false,
+		"additionalCommandLineArguments": "-NOSCREENMESSAGES -r.motionBlurQuality 4 -r.DepthOfFieldQaulity 4"
+	},
+	"AdditionalData":
+	{
+		"ProtocolType": "/Script/MovieSceneCapture.ImageCaptureSettings",
+		"ProtocolData":
+		{
+			"compressionQuality": 100
+		},
+		"BurnInOptions":
+		{
+			"bUseBurnIn": false,
+			"burnInClass": "/Engine/Sequencer/DefaultBurnIn.DefaultBurnIn_C",
+			"settings": "DefaultBurnInOptions_C'/Engine/Transient.AutomatedLevelSequenceCapture_0:BurnInOptions.Settings'"
+		},
+		"BurnInOptionsInitSettings":
+		{
+			"topLeftText": "{FocalLength}mm, {Aperture}, {FocusDistance} ",
+			"topCenterText": "{MasterName} - {Date} - {EngineVersion}",
+			"topRightText": "{TranslationX} {TranslationY} {TranslationZ}, {RotationX} {RotationY} {RotationZ}",
+			"bottomLeftText": "{ShotName}",
+			"bottomCenterText": "{hh}:{mm}:{ss}:{ff} ({MasterFrame})",
+			"bottomRightText": "{ShotFrame}",
+			"watermark": "None",
+			"watermarkTint":
+			{
+				"r": 1,
+				"g": 1,
+				"b": 1,
+				"a": 0.5
+			},
+			"font":
+			{
+				"fontObject": "Font'/Engine/EngineFonts/DroidSansMono.DroidSansMono'",
+				"fontMaterial": "None",
+				"outlineSettings":
+				{
+					"outlineSize": 0,
+					"outlineMaterial": "None",
+					"outlineColor":
+					{
+						"r": 0,
+						"g": 0,
+						"b": 0,
+						"a": 1
+					},
+					"bSeparateFillAlpha": false
+				},
+				"typefaceFontName": "Default",
+				"size": 16
+			}
+		}
+	}
+}

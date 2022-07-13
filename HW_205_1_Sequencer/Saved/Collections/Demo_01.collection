@@ -1,0 +1,11 @@
+FileVersion:2
+Type:Static
+Guid:60CCA89C-41DE-473D-3CEE-F3B0596812EB
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/AnimStarterPack/AuditionAnimation/MocapData/Cleaned/shot0030_Dancer.shot0030_Dancer
+/Game/AnimStarterPack/AuditionAnimation/MocapData/Cleaned/shot0060_Judge1.shot0060_Judge1
+/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+/Game/Maps/DemoMap_01/DemoMap_P.DemoMap_P
+/Game/Mesh/SM_MERGED_Cube9.SM_MERGED_Cube9
+/Script/CinematicCamera.CineCameraActor
